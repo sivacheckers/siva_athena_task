@@ -1,0 +1,200 @@
+txnid,username,product_zone,product,brand,model,date,quantity,amount
+1001,Balaji,Car Accessories,Perfume,AAA,RL49,12/04/2014,4,9459
+1001,Balaji,Book,Alchemist,BBB,GL24,12/04/2014,5,5939
+1001,Balaji,Electronics,Camera,DDD,KC70,12/04/2014,6,6060
+1318,Selva,Electronics,Camera,DDD,HR83,14/04/2014,9,6840
+1318,Selva,Book,Alchemist,BBB,CD26,14/04/2014,6,6917
+1318,Selva,Fashion Accessories,Medium,CCC,TG59,14/04/2014,8,3501
+4988,Suresh,Electronics,Camera,DDD,IS11,17/10/2014,5,7988
+1652,Praba,Fashion Accessories,Medium,CCC,MM67,22/11/2015,7,4426
+3993,Suresh,Book,Alchemist,BBB,TU30,21/09/2016,5,4669
+2231,Ram,Car Accessories,Perfume,AAA,OT97,12/08/2016,3,3569
+1362,Harry,Book,Alchemist,BBB,LY26,20/02/2017,10,2869
+1362,Harry,Car Accessories,Perfume,AAA,HQ27,20/02/2017,4,6601
+1362,Harry,Electronics,Camera,DDD,ZC24,20/02/2017,8,4740
+1362,Harry,Book,Alchemist,BBB,FA30,20/02/2017,7,7940
+1362,Harry,Car Accessories,Perfume,AAA,SG71,20/02/2017,2,2165
+1362,Harry,Home Décor,Night Lamp,EEE,ZN33,20/02/2017,2,5096
+4485,Suresh,Car Accessories,Perfume,AAA,GI76,08/08/2016,7,4566
+1209,Balaji,Electronics,Camera,DDD,GK96,15/12/2014,6,3608
+1688,Guru,Fashion Accessories,Medium,CCC,PD43,08/02/2017,2,5122
+4126,Balaji,Car Accessories,Perfume,AAA,QX97,07/01/2016,3,8290
+1983,Balaji,Car Accessories,Perfume,AAA,BJ30,24/02/2016,10,5350
+1520,Praba,Book,Alchemist,BBB,LR34,21/05/2016,8,7813
+2973,Krish,Car Accessories,Perfume,AAA,PF38,02/01/2016,5,7953
+2065,Praba,Fashion Accessories,Medium,CCC,OZ20,26/04/2015,8,8831
+4333,Rahul,Fashion Accessories,Medium,CCC,AU32,26/12/2014,6,7260
+3542,Suresh,Electronics,Camera,DDD,OG56,22/02/2015,7,6924
+1237,Rahul,Car Accessories,Perfume,AAA,XE96,05/11/2015,3,8996
+4858,Praba,Book,Alchemist,BBB,BM27,13/02/2016,8,8708
+1231,Gopi,Car Accessories,Perfume,AAA,BW54,29/12/2016,9,7220
+4941,Arjun,Fashion Accessories,Medium,CCC,XU99,01/04/2014,3,6219
+2117,Praba,Car Accessories,Perfume,AAA,QB36,16/01/2016,6,7699
+2547,Siva,Fashion Accessories,Medium,CCC,GT28,07/07/2014,6,9650
+2547,Siva,Car Accessories,Perfume,AAA,EV86,07/07/2014,6,9423
+2547,Siva,Home Décor,Night Lamp,EEE,VM43,07/07/2014,2,9259
+2547,Siva,Home Décor,Night Lamp,EEE,YR42,07/07/2014,7,7414
+3913,Selva,Car Accessories,Perfume,AAA,FR56,09/05/2016,6,8080
+4899,Siva,Home Décor,Night Lamp,EEE,FC82,22/10/2016,9,3881
+1226,Rahul,Book,Alchemist,BBB,RI55,13/04/2016,5,4004
+1226,Rahul,Home Décor,Night Lamp,EEE,HG73,13/04/2016,2,2625
+1226,Rahul,Book,Alchemist,BBB,MC66,13/04/2016,9,5157
+1226,Rahul,Electronics,Camera,DDD,PW72,13/04/2016,5,7578
+1157,Ram,Car Accessories,Perfume,AAA,VG10,10/08/2016,4,5098
+1603,Harry,Electronics,Camera,DDD,MG91,17/10/2015,2,8452
+4862,Balaji,Car Accessories,Perfume,AAA,JN13,16/01/2015,9,4080
+2291,Harry,Book,Alchemist,BBB,WZ45,16/02/2015,5,7926
+3843,Harry,Fashion Accessories,Medium,CCC,NC46,23/05/2015,3,4186
+4308,Krish,Car Accessories,Perfume,AAA,WH99,10/03/2016,6,2981
+3193,Praba,Car Accessories,Perfume,AAA,JT71,10/10/2015,6,5583
+3799,Krish,Car Accessories,Perfume,AAA,RI88,05/11/2015,2,2693
+3057,Krish,Electronics,Camera,DDD,EW62,01/11/2015,4,3428
+2752,Harry,Car Accessories,Perfume,AAA,EF60,06/07/2016,7,3474
+2029,Sri,Fashion Accessories,Medium,CCC,KI34,11/11/2014,4,5435
+4855,Balaji,Fashion Accessories,Medium,CCC,DL72,30/11/2014,4,3958
+1380,Jon,Home Décor,Night Lamp,EEE,HU72,16/12/2014,2,4838
+3225,Suresh,Electronics,Camera,DDD,QV45,05/09/2016,6,5172
+2929,Harry,Fashion Accessories,Medium,CCC,WQ48,06/12/2016,2,9191
+2660,Balaji,Home Décor,Night Lamp,EEE,YG70,04/10/2015,3,8746
+4630,Krish,Electronics,Camera,DDD,BM36,16/01/2016,9,5561
+3286,Gopi,Fashion Accessories,Medium,CCC,YK54,06/04/2014,4,8941
+2704,Prasad,Book,Alchemist,BBB,JO82,18/01/2017,6,2459
+2410,Guru,Book,Alchemist,BBB,PE22,08/02/2017,10,4173
+3220,Balaji,Book,Alchemist,BBB,MY14,26/10/2015,9,7920
+1419,Ram,Fashion Accessories,Medium,CCC,AD84,09/12/2015,4,5494
+4677,Prasad,Book,Alchemist,BBB,EN76,02/06/2014,8,7996
+3466,Prasad,Fashion Accessories,Medium,CCC,BN67,25/05/2015,6,6627
+2039,Selva,Home Décor,Night Lamp,EEE,TX35,25/11/2016,5,5851
+1644,Siva,Home Décor,Night Lamp,EEE,KP17,19/03/2015,10,5969
+3569,Gopi,Car Accessories,Perfume,AAA,WU50,19/06/2015,5,3079
+2132,Guru,Book,Alchemist,BBB,SQ89,29/10/2016,7,3757
+4698,Siva,Fashion Accessories,Medium,CCC,YD75,07/12/2016,10,8867
+4682,Selva,Electronics,Camera,DDD,NA73,13/04/2015,10,3153
+1066,Krish,Car Accessories,Perfume,AAA,DK15,07/06/2014,8,2514
+4022,Guru,Home Décor,Night Lamp,EEE,AO27,07/07/2016,4,6612
+3838,Ram,Home Décor,Night Lamp,EEE,TW15,08/02/2016,4,4448
+3514,Harry,Fashion Accessories,Medium,CCC,XR11,24/02/2015,5,2577
+3912,Selva,Book,Alchemist,BBB,HO50,08/11/2014,7,2853
+1861,Guru,Electronics,Camera,DDD,FG17,06/09/2014,3,9914
+2333,Gopi,Fashion Accessories,Medium,CCC,FZ74,07/09/2015,3,4095
+4309,Balaji,Car Accessories,Perfume,AAA,XD92,27/03/2015,5,8353
+4386,Siva,Fashion Accessories,Medium,CCC,EC84,24/08/2015,9,5313
+1920,Harry,Fashion Accessories,Medium,CCC,BT91,27/08/2016,10,4810
+2177,Rahul,Electronics,Camera,DDD,KV36,22/04/2015,8,9271
+3576,Ram,Fashion Accessories,Medium,CCC,NN99,11/01/2014,6,9143
+1134,Arjun,Fashion Accessories,Medium,CCC,SI28,22/11/2014,2,6972
+3120,Krish,Electronics,Camera,DDD,OV66,10/10/2015,9,2353
+3116,Suresh,Fashion Accessories,Medium,CCC,TC55,20/03/2016,2,6575
+4665,Sri,Home Décor,Night Lamp,EEE,IF66,03/02/2014,2,9630
+4439,Siva,Home Décor,Night Lamp,EEE,CT12,24/01/2017,3,3798
+4249,Praba,Home Décor,Night Lamp,EEE,AS42,26/01/2014,2,5882
+1944,Jon,Car Accessories,Perfume,AAA,AI17,16/04/2014,2,5315
+2067,Praba,Home Décor,Night Lamp,EEE,ET58,30/01/2017,6,2116
+2478,Harry,Fashion Accessories,Medium,CCC,HB94,30/12/2016,5,6769
+1752,Jon,Book,Alchemist,BBB,WN44,27/10/2016,4,8959
+2514,Balaji,Car Accessories,Perfume,AAA,SI53,14/03/2015,5,5158
+4724,Gopi,Fashion Accessories,Medium,CCC,EV60,14/09/2015,3,8085
+4729,Balaji,Electronics,Camera,DDD,QG59,17/04/2014,6,3427
+3584,Guru,Fashion Accessories,Medium,CCC,OG34,09/10/2015,9,9411
+4061,Prasad,Electronics,Camera,DDD,CE35,03/06/2014,10,3337
+3516,Guru,Electronics,Camera,DDD,SH52,28/07/2015,5,9524
+1265,Gopi,Electronics,Camera,DDD,VJ51,26/01/2017,4,8809
+1491,Praba,Fashion Accessories,Medium,CCC,BQ84,29/05/2014,6,3228
+4989,Gopi,Electronics,Camera,DDD,BU37,31/07/2016,10,9140
+1644,Guru,Car Accessories,Perfume,AAA,FN91,04/01/2014,7,4435
+2834,Jon,Electronics,Camera,DDD,VU45,11/08/2014,5,8368
+3971,Harry,Book,Alchemist,BBB,OA61,05/07/2016,4,6184
+2460,Guru,Book,Alchemist,BBB,WX16,08/01/2014,4,7425
+2341,Prasad,Book,Alchemist,BBB,BK51,30/08/2014,4,5827
+2421,Guru,Car Accessories,Perfume,AAA,IM60,01/02/2017,5,4743
+2820,Jon,Book,Alchemist,BBB,NS44,11/08/2015,4,4101
+1557,Arjun,Car Accessories,Perfume,AAA,DZ24,24/07/2015,5,7447
+3828,Balaji,Home Décor,Night Lamp,EEE,XJ76,01/06/2015,6,5504
+1829,Praba,Home Décor,Night Lamp,EEE,RD76,06/04/2015,8,8345
+3134,Sri,Home Décor,Night Lamp,EEE,QY88,22/01/2017,2,5779
+3711,Balaji,Fashion Accessories,Medium,CCC,AT89,26/02/2017,3,3213
+1910,Harry,Electronics,Camera,DDD,WO41,20/06/2016,5,4868
+1677,Arjun,Car Accessories,Perfume,AAA,YE89,13/01/2014,8,4405
+1434,Praba,Fashion Accessories,Medium,CCC,SE59,30/06/2016,4,5670
+1174,Harry,Electronics,Camera,DDD,QW32,05/04/2016,10,3261
+4143,Krish,Car Accessories,Perfume,AAA,PH94,10/06/2015,6,2109
+4451,Arjun,Electronics,Camera,DDD,NL63,17/03/2015,4,7732
+2066,Krish,Car Accessories,Perfume,AAA,VI89,15/07/2016,2,8873
+4692,Rahul,Electronics,Camera,DDD,BQ85,04/03/2016,9,8393
+4505,Balaji,Home Décor,Night Lamp,EEE,PR32,01/04/2016,7,4710
+2508,Arjun,Fashion Accessories,Medium,CCC,ZK57,30/12/2015,8,6603
+2271,Praba,Book,Alchemist,BBB,YI99,12/12/2014,9,8186
+2271,Praba,Book,Alchemist,BBB,HY85,12/12/2014,2,2351
+2271,Praba,Book,Alchemist,BBB,WU70,12/12/2014,4,7675
+2271,Praba,Fashion Accessories,Medium,CCC,KW98,12/12/2014,5,5606
+2271,Praba,Electronics,Camera,DDD,CI51,20/05/2016,10,8626
+1779,Krish,Car Accessories,Perfume,AAA,SA68,01/02/2016,6,7184
+4997,Gopi,Fashion Accessories,Medium,CCC,JV83,05/01/2015,2,3229
+4946,Guru,Book,Alchemist,BBB,AL48,30/07/2016,6,7766
+1512,Sri,Book,Alchemist,BBB,RA94,27/01/2016,4,4266
+4646,Gopi,Electronics,Camera,DDD,MJ94,08/12/2015,7,3638
+2122,Gopi,Home Décor,Night Lamp,EEE,JQ86,02/08/2015,2,8647
+2154,Gopi,Car Accessories,Perfume,AAA,KD60,26/03/2014,9,8033
+1930,Jon,Electronics,Camera,DDD,PR51,16/03/2015,4,2331
+2433,Gopi,Home Décor,Night Lamp,EEE,QQ40,08/01/2017,9,4406
+2287,Jon,Fashion Accessories,Medium,CCC,RI91,01/01/2017,9,7201
+1785,Selva,Home Décor,Night Lamp,EEE,OI39,17/07/2015,9,4017
+4449,Suresh,Car Accessories,Perfume,AAA,DS73,10/06/2015,2,3575
+2837,Guru,Book,Alchemist,BBB,OU61,20/04/2014,2,6396
+2794,Arjun,Book,Alchemist,BBB,OD53,31/10/2016,8,5559
+3202,Suresh,Home Décor,Night Lamp,EEE,RE79,10/03/2016,5,9111
+2089,Gopi,Home Décor,Night Lamp,EEE,KP49,02/09/2015,7,3259
+3679,Krish,Home Décor,Night Lamp,EEE,IG39,04/08/2014,5,2591
+1627,Arjun,Car Accessories,Perfume,AAA,YA74,10/08/2015,5,3361
+2390,Balaji,Home Décor,Night Lamp,EEE,JZ18,24/03/2015,10,6847
+4354,Siva,Book,Alchemist,BBB,DK22,12/09/2016,9,8164
+2769,Harry,Fashion Accessories,Medium,CCC,RT48,25/02/2016,7,3838
+1905,Arjun,Car Accessories,Perfume,AAA,BF37,04/08/2015,8,8299
+1885,Praba,Electronics,Camera,DDD,XY72,01/04/2016,4,7990
+1349,Prasad,Fashion Accessories,Medium,CCC,MR17,31/05/2014,5,4255
+4184,Siva,Home Décor,Night Lamp,EEE,TM70,26/10/2015,9,6503
+3663,Selva,Fashion Accessories,Medium,CCC,BC58,16/03/2014,2,7068
+4334,Arjun,Fashion Accessories,Medium,CCC,WC77,01/02/2016,8,5395
+4336,Suresh,Electronics,Camera,DDD,CS98,15/07/2016,3,7892
+2770,Rahul,Car Accessories,Perfume,AAA,SQ87,09/06/2015,8,8734
+4180,Guru,Car Accessories,Perfume,AAA,BK73,19/12/2016,3,9872
+4106,Gopi,Book,Alchemist,BBB,VB10,24/07/2016,8,7085
+4338,Arjun,Home Décor,Night Lamp,EEE,RE15,25/02/2016,5,5961
+4224,Balaji,Car Accessories,Perfume,AAA,HK84,02/06/2014,8,2159
+4599,Ram,Car Accessories,Perfume,AAA,IN89,13/09/2014,4,9428
+2375,Rahul,Home Décor,Night Lamp,EEE,UB19,16/08/2014,7,6332
+2993,Prasad,Book,Alchemist,BBB,YQ29,29/04/2016,2,3266
+2433,Siva,Book,Alchemist,BBB,TC39,01/01/2014,5,7921
+4478,Rahul,Fashion Accessories,Medium,CCC,DH10,11/06/2015,8,2763
+3255,Gopi,Electronics,Camera,DDD,TW24,11/01/2016,10,7001
+1484,Balaji,Home Décor,Night Lamp,EEE,FT63,17/01/2014,10,6134
+2696,Krish,Book,Alchemist,BBB,XY59,06/08/2014,9,9194
+4143,Harry,Car Accessories,Perfume,AAA,YZ98,30/06/2016,3,7308
+1819,Arjun,Book,Alchemist,BBB,IU37,12/04/2016,2,7657
+4386,Rahul,Car Accessories,Perfume,AAA,RW12,26/05/2014,2,7040
+4424,Arjun,Fashion Accessories,Medium,CCC,KB21,06/02/2015,5,5862
+2205,Selva,Car Accessories,Perfume,AAA,YN95,29/03/2015,3,4956
+1636,Siva,Fashion Accessories,Medium,CCC,OJ12,30/12/2015,8,4663
+3121,Siva,Book,Alchemist,BBB,QO53,08/11/2014,5,9387
+4299,Arjun,Book,Alchemist,BBB,DA73,08/05/2015,6,7125
+4806,Siva,Car Accessories,Perfume,AAA,OV88,24/04/2016,8,8776
+2259,Rahul,Home Décor,Night Lamp,EEE,EK91,05/11/2014,8,5553
+1666,Balaji,Fashion Accessories,Medium,CCC,TY32,04/12/2014,8,8747
+3210,Selva,Car Accessories,Perfume,AAA,ID49,04/08/2016,3,4967
+4855,Praba,Book,Alchemist,BBB,HE98,23/11/2016,4,4205
+2435,Siva,Car Accessories,Perfume,AAA,SU13,29/11/2014,2,7446
+2147,Arjun,Electronics,Camera,DDD,HZ27,11/04/2016,5,4715
+4573,Guru,Fashion Accessories,Medium,CCC,BU67,03/04/2014,3,4924
+2908,Arjun,Fashion Accessories,Medium,CCC,BW86,10/07/2016,4,3068
+4868,Suresh,Electronics,Camera,DDD,OM31,23/11/2016,9,6564
+3809,Jon,Home Décor,Night Lamp,EEE,HQ42,28/04/2015,10,5178
+4505,Prasad,Car Accessories,Perfume,AAA,GV19,25/11/2014,8,2431
+4454,Siva,Electronics,Camera,DDD,SK87,18/11/2016,10,8781
+3839,Praba,Book,Alchemist,BBB,PP32,19/05/2014,7,4587
+2858,Praba,Electronics,Camera,DDD,JL75,23/10/2016,8,8285
+4473,Prasad,Home Décor,Night Lamp,EEE,OU30,01/09/2014,10,4714
+3348,Jon,Book,Alchemist,BBB,TH63,26/07/2016,10,8973
+3018,Praba,Fashion Accessories,Medium,CCC,BH55,05/01/2017,2,4363
+4089,Ram,Electronics,Camera,DDD,YZ10,16/02/2017,6,2293
+4545,Arjun,Book,Alchemist,BBB,XK95,07/11/2016,6,2894
+1832,Suresh,Book,Alchemist,BBB,NX74,14/03/2016,10,6529

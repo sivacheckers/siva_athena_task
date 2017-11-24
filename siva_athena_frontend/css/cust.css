@@ -1,0 +1,65 @@
+ @media screen and (max-width: 699px) and (min-width: 520px) {
+         ul li a {
+         padding-left: 30px;
+         }
+         }
+         .nav_menu{
+         background-color: #2A3F54;
+         }
+         .fa.fa-bars {
+         font-size: 25px;
+         color: white;
+         }
+
+         ..fnt{
+    font-size: 74px !important;
+    display: block;
+  }
+
+  .font{
+        font-size: 16px;
+    font-weight: bold;
+        font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif;
+
+  }
+
+         .btn.btn-app {
+        position: relative !important;
+    padding: 17px 5px !important;
+    margin: 0 0 10px 10px !important;
+    min-width: 31% !important;
+    height: 102px !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    text-align: center !important;
+    color: #666 !important;
+    border: 1px solid #ddd !important;
+    /*background-color: #fafafa !important;*/
+    font-size: 12px !important;
+}
+
+.btn.btn-app>.fa, .btn.btn-app>.glyphicon, .btn.btn-app>.ion {
+    font-size: 4.5em !important;
+    display: block !important;
+}
+
+.bg_lb{ background:#27a9e3!important;}
+.bg_db{ background:#2295c9!important;}
+.bg_lg{ background:#28b779!important;}
+.bg_dg{ background:#28b779!important;}
+.bg_ly{ background:#ffb848!important;}
+.bg_dy{ background:#da9628!important;}
+.bg_ls{ background:#2255a4!important;}
+.bg_lo{ background:#da542e!important;}
+.bg_lr{ background:#f74d4d!important;}
+.bg_lv{ background:#603bbc!important;}
+.bg_lh{ background:#b6b3b3!important;}
+
+.clr{
+  color: white;
+}
+
+ @media only screen and (max-width: 1024px) {
+
+
+  }

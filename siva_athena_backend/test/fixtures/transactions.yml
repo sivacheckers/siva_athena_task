@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  txnid: 1
+  username: MyString
+  product_zone: MyString
+  product: MyString
+  brand: MyString
+  model: 1
+  quantity: 1
+  amount: 1
+  date: 2017-11-23
+
+two:
+  txnid: 1
+  username: MyString
+  product_zone: MyString
+  product: MyString
+  brand: MyString
+  model: 1
+  quantity: 1
+  amount: 1
+  date: 2017-11-23
